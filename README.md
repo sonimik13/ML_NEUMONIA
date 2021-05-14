@@ -13,5 +13,5 @@ Esta situación es la que me ha empujado a realizar este estudio con imágenes d
 * Recopilación de imágenes de la página indicada anteriormente
 * Análisis de datos: Tenía imágenes que se correspondían a 4 causístiscas pero he descartado las imágenes de opacidad pulmonar porque no me iban a servir para discriminar la neumonía correctamente ya que las personas con ese episodio podían tener su origen en una neumonía u otra enfermedad. También he tenido que balancear los datos, ya que tenía una cantidad mayor de muestras de pacientes con pulmones sanos por lo que el modelo no iba a generalizar bien si cogía todas las muestras de las que disponía. 
 
-Todo el código está escrito en Python utilizando Google colab.
+Todo el código está escrito en Python utilizando la TPU de Google colab.
 
