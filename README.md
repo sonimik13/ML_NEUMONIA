@@ -15,3 +15,4 @@ Esta situación es la que me ha empujado a realizar este estudio con imágenes d
 
 Todo el código está escrito en Python utilizando para la ejecución la TPU de Google colab.
 
+**Palabras clave** (Python, Redes convolucionales, VGG-16, ResNet-50, TensorBoard, Accuracy, Loss, Matriz de confusión)
