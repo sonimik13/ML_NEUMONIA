@@ -2,7 +2,7 @@
 
 Las imágenes de RX de Tórax de COVID-19 de la Sociedad Italiana de Radiología Médica e Intervencionista (SIRM) COVID-19 DATABASE se han obtenido de la página web de [kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database).
 
-Se ha usado la interfaz de `tensorboard` para visualizar el gráfico y otras herramientas para comprender, depurar y optimizar el modelo.
+Se ha usado la interfaz de `TensorBoard` para visualizar el gráfico y otras herramientas para comprender, depurar y optimizar el modelo.
 
 Todo el código está escrito en Python utilizando `notebooks` de Google colab y ejecutándose en la nube con TPU. 
 
