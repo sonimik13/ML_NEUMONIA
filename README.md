@@ -4,6 +4,6 @@ Las imágenes de RX de Tórax de COVID-19 de la Sociedad Italiana de Radiología
 
 Se ha usado la interfaz de `TensorBoard` para visualizar el gráfico y otras herramientas para comprender, depurar y optimizar el modelo.
 
-Todo el código está escrito en Python utilizando `notebooks` de Google colab y ejecutándose en la nube con TPU. 
+Todo el código está escrito en Python utilizando `notebooks` de Google colab y ejecutándose en la nube con `TPU`. 
 
 **Palabras clave** (Python, Redes convolucionales, VGG-16, ResNet-50, TensorBoard, Accuracy, Loss, Matriz de confusión)
